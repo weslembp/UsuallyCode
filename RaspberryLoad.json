@@ -1,0 +1,29 @@
+{
+  "settingsReloadIntervalMinutes": 2,
+  "fullscreen": false,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "https://sites.google.com/nidec-ga.com/logistica-expedicao/page/log%C3%ADstica-4?authuser=0",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 400
+    },
+    {
+      "url": "https://sites.google.com/nidec-ga.com/logistica-expedicao/page/log%C3%ADstica-3?authuser=0",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 600
+    },
+    {
+      "url": "https://sites.google.com/nidec-ga.com/logistica-expedicao/page/log%C3%ADstica-2?authuser=0",
+      "duration": 10,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/191drq9UQ4trehNyHlDGfBQt0RN0v2sYyyjfnyBtJajY/edit#gid=892180897",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    }
+  ]
+}
