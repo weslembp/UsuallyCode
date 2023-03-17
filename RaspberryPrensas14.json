@@ -6,7 +6,7 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "http://mesbr/Apriso/Portal/Kiosk/Login.aspx?Command=ExecuteOperation&OperationCode=HUBDashboard_GeneralView&LoginName=PR1420-A1",
+      "url": "http://mesbr/Apriso/Portal/Kiosk/Login.aspx?Command=ExecuteOperation&OperationCode=HelpChainBoard_Main&LoginName=PR1420-A1",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
     },
