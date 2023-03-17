@@ -1,0 +1,14 @@
+{
+  "settingsReloadIntervalMinutes": 15,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "https://sites.google.com/nidec-ga.com/ehs-bl28/home",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
