@@ -2,11 +2,16 @@
   "settingsReloadIntervalMinutes": 15,
   "fullscreen": true,
   "autoStart": true,
-  "lazyLoadTabs": false,
-  "closeExistingTabs": false,
+  "lazyLoadTabs": true,
+  "closeExistingTabs": true,
   "websites": [
     {
       "url": "http://mesbr/Apriso/Portal/Kiosk/Login.aspx?Command=ExecuteOperation&OperationCode=HUBDashboard_GeneralView&LoginName=PR1420-A1",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "http://mesbr/Apriso/Portal/Kiosk/Login.aspx?Command=ExecuteOperation&OperationCode=HelpChainBoard_Main&LoginName=PR1443-A1",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
     }
