@@ -9,11 +9,6 @@
       "url": "http://mesbr/Apriso/Portal/Kiosk/Login.aspx?Command=ExecuteOperation&OperationCode=HelpChainBoard_Main&LoginName=PR1420-A1",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
-    },
-    {
-      "url": "http://mesbr/Apriso/Portal/Kiosk/Login.aspx?Command=ExecuteOperation&OperationCode=HelpChainBoard_Main&LoginName=PR1443-A1",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 0
     }
   ]
 }
