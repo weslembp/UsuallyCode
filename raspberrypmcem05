@@ -1,0 +1,19 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "http://mesbr/Apriso/Portal/Kiosk/Login.aspx?Command=ExecuteOperation&OperationCode=HelpChainBoard_Main&LoginName=PMCEM05-A1",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1kUFRzOLrM0_Br9NOcD7-gXeMc7finxIqo7lI4vSEuOk/edit#gid=0",
+      "duration": 15,
+      "tabReloadIntervalSeconds": 280
+    }
+  ]
+}
